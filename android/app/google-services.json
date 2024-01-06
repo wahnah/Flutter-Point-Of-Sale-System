@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "940056466165",
+    "project_id": "tabpos-93583",
+    "storage_bucket": "tabpos-93583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940056466165:android:a0206f48cb8bb2ac0eebbc",
+        "android_client_info": {
+          "package_name": "com.example.tabpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940056466165-5ia9dvb9q7i3afoe0rlk8f8sejh3h4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc8k8jfTv9O9nJwveRcmCI4z8A7oO4vdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940056466165-5ia9dvb9q7i3afoe0rlk8f8sejh3h4je.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940056466165-3b9ah4dlim7s244g2mhrc38jmeqdupdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tabpos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
